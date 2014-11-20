@@ -1,3 +1,3 @@
 # ARuby application (Yet another one) 
 
-This app id by [Daniel Maina] (www.danielmaina.me)
+This app is by [Daniel Maina] (http://danielmaina.me/)
